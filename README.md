@@ -1,2 +1,2 @@
-#BankTu
+BankTu
 this is my app
